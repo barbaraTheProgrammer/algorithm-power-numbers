@@ -1,4 +1,4 @@
-# algorithm-power-numbers-cpp
+# algorithm finding "special numbers" C++
 
 C++ solution for problem of finding "special numbers". Here is definition of a "special number".
 Let the sum of the squares of the digits of the positive number n0 be n1.
